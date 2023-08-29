@@ -1,0 +1,4 @@
+ray[serve]
+streamlit
+hf-hub-ctranslate2>=2.12.0
+ctranslate2>=3.17.1
